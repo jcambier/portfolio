@@ -1,0 +1,87 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    /* background: linear-gradient(rgba(228, 60, 60, 0.8), rgba(251, 192, 147, 0.8)); */
+    background-color: rgba(228, 60, 60, 0.6);
+    border-radius: .3rem;
+    position: relative;
+    top: 50px;
+  }
+
+  .about-header {
+    text-align: center;
+  }
+
+  .intro-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .left {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 45%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 10px;
+    /* margin: 10px; */
+  }
+
+  .right {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 45%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 10px;
+    /* margin: 10px; */
+  }
+
+  .about-me {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .star-image {
+    max-width: 10%;
+    padding: 10px;
+  }
+
+  .cpu-image {
+    max-width: 10%;
+    padding: 10px;
+    position: relative;
+    top: 7rem;
+    left: 15rem;
+    transform: rotate(20deg);
+  }
+
+  .info {
+    margin-top: 13rem;
+  }
+
+  .me {
+    width: 50%;
+    margin: 2rem;
+    margin-left: 25%;
+  }
+
+  .music-image {
+    max-width: 10%;
+    padding: 10px;
+    position: relative;
+    right: 5rem;
+    top: 7rem;
+    transform: rotate(-20deg);
+  }
+
+  .baseball-image {
+    max-width: 10%;
+    padding: 10px;
+    position: relative;
+    left: 5rem;
+    bottom: 8rem;
+    transform: rotate(20deg);
+  }

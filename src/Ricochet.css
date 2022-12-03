@@ -1,0 +1,46 @@
+.jumbotron3 {
+    padding: 2rem 1rem;
+    background-color: rgba(255, 253, 208, 0.8);
+    border-radius: .3rem;
+  }
+
+  .rico-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .left-rico {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 45%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    background-color: rgba(255, 253, 208, 0.8);
+  }
+
+  .right-rico {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 45%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding: 10px;
+    margin: 10px;
+    row-gap: 20px;
+  }
+
+  .rico-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .rico-image {
+    max-width: 10%;
+    padding: 10px;
+  }
