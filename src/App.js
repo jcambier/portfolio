@@ -5,6 +5,7 @@ import Pokemon from './Pokemon';
 import Ricochet from './Ricochet';
 import Iterative from './Iterative';
 import Responsive from './Responsive';
+import BottomBar from './BottomBar';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Ricochet></Ricochet>
         <Iterative></Iterative>
         <Responsive></Responsive>
+        <BottomBar></BottomBar>
       </div>
     </div>
   );

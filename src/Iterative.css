@@ -3,7 +3,7 @@
     background-color: rgba(251, 192, 147, 0.8);
     border-radius: .3rem;
     position: relative;
-    bottom: 40px;
+    /* bottom: 40px; */
 }
 
 .iterative-stats {

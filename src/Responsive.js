@@ -8,7 +8,7 @@ import { Card } from 'react-bootstrap';
 export default function Responsive() {
     return(
         <div className='jumbotron5'>
-            <div className='rico-content' id='ricochet'>
+            <div className='rico-content' id='responsive'>
                 <div className='left-rico'>
                     <div className='rico-header'>
                         <img src={Ruler} className='rico-image'></img>

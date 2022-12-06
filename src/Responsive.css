@@ -4,7 +4,7 @@
     border-radius: .3rem;
     background-color: rgba(228, 60, 60, 0.6);
     position: relative;
-    bottom: 60px;
+    /* bottom: 60px; */
   }
 
 .code-card {

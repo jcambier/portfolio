@@ -1,0 +1,21 @@
+.bottom-bar {
+    height: 75px;
+}
+
+.icon {
+    /* display: block; */
+    max-height: 55px;
+    padding: 10px;
+  }
+
+.nav-item {
+    max-height: 75px;
+}
+
+.social-links {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
