@@ -35,12 +35,14 @@
     margin: 10px;
     row-gap: 20px;
     background-color: rgba(251, 192, 147, 0.8);
+    border-radius: 2rem;
   }
 
   .pokemon-header {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
   }
 
   .pokeball-image {
@@ -55,6 +57,7 @@
 
   .underline {
     text-decoration: underline;
+    text-align: center;
   }
 
   .link {
@@ -76,8 +79,18 @@
     margin-top: 20px;
     margin-left: 20%;
     margin-right: 20%;
+    margin-bottom: 20px;
+    background-color: rgba(251, 192, 147, 0.8);
+    padding: 8px;
+    border-radius: 2rem;
+    column-gap: 5px;
   }
 
   .overwrite-size {
-    font-size: calc(10px + rem);
+    font-size: calc(1.3rem);
+    /* font-weight: bold; */
+  }
+
+  .overwrite-bold {
+    font-weight: normal;
   }

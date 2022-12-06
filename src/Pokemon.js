@@ -21,15 +21,15 @@ export default function Pokemon() {
                         <img src={pokeball} className='pokeball-image'></img>
                     </div>
                     <div className='context'>
-                        <h3 className='underline'>Context:</h3>
-                        <h4>This is the beginning of a Pokemon team creator. When building competitive teams, trainers will want
+                        <h3 className='underline'>Context</h3>
+                        <h4 className='overwrite-bold'>This is the beginning of a Pokemon team creator. When building competitive teams, trainers will want
                             to compare the stats of different Pokemon. This app allows you to filter from a preliminary list of 12
                             Pokemon based on type and nature. You can also sort the Pokemon by their attack stat. In general, if this
                             design were extended, it could be a helpful teambuilding tool. 
                         </h4>
                     </div>
                     <div className='process'>
-                        <h3 className='underline'>Design Notes and Process:</h3>
+                        <h3 className='underline'>Design Notes and Process</h3>
                         <ul>
                             <li className='overwrite-size'>Started by creating the Pokemon component within React and implementing each card</li>
                             <li className='overwrite-size'>Then, added the filter functions at the top of the page</li>
@@ -39,14 +39,14 @@ export default function Pokemon() {
                         </ul>
                     </div>
                     <div className='takeaways'>
-                        <h3 className='underline'>Takeaways:</h3>
-                        <h4>This project helped me improve my understanding of React. After this project, I felt comfortable
-                            working with components and state variables. I also felt good having completed a project that is
-                            hopefully fun, engaging, and useful.
+                        <h3 className='underline'>Takeaways</h3>
+                        <h4 className='overwrite-bold'>This project helped me improve my understanding of React. Afterwards, I felt comfortable
+                            working with components and state variables. Also, I feel that I succeeded in my goal of making
+                            something fun and engaging.
                         </h4>
                     </div>
                     <div className='link'>
-                        <h3 className='underline'>Link:</h3>
+                        <h3 className='underline'>Project Link:</h3>
                         <Nav variant="pills" className='nav-button'>
                             <Nav.Item>
                             <Nav.Link eventKey="1" href="https://stinkytortoise420.github.io/Development/">

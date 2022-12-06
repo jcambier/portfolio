@@ -1,7 +1,10 @@
 .jumbotron3 {
     padding: 2rem 1rem;
-    background-color: rgba(255, 253, 208, 0.8);
+    /* background-color: rgba(255, 253, 208, 0.8); */
     border-radius: .3rem;
+    background-color: rgba(228, 60, 60, 0.6);
+    position: relative;
+    bottom: 20px;
   }
 
   .rico-content {
@@ -19,8 +22,11 @@
     flex-shrink: 0;
     padding: 10px;
     margin: 10px;
+    row-gap: 20px;
     justify-content: center;
-    background-color: rgba(255, 253, 208, 0.8);
+    /* background-color: rgba(255, 253, 208, 0.8); */
+    background-color: rgba(228, 60, 60, 0.4);
+    border-radius: 2rem;
   }
 
   .right-rico {
@@ -32,15 +38,39 @@
     padding: 10px;
     margin: 10px;
     row-gap: 20px;
+    justify-content: center;
+    align-items: center;
   }
 
   .rico-header {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
   }
 
   .rico-image {
     max-width: 10%;
     padding: 10px;
+  }
+
+  .robots-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .rico-stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    background-color: rgba(228, 60, 60, 0.4);
+    padding: 8px;
+    border-radius: 2rem;
+    column-gap: 5px;
   }

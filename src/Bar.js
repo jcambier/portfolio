@@ -18,7 +18,7 @@ export default function Bar() {
             <Nav.Link onClick={() => scrollToProject('about')}>About Me</Nav.Link>
             <Nav.Link onClick={() => scrollToProject('pokemon')}>Pokemon Team Creator</Nav.Link>
             <Nav.Link onClick={() => scrollToProject('ricochet')}>Ricochet Robots</Nav.Link>
-            <Nav.Link href="#pricing">Iterative Design</Nav.Link>
+            <Nav.Link onClick={() => scrollToProject('iterative')}>Iterative Design</Nav.Link>
             <Nav.Link href="#pricing">Responsive Redesign</Nav.Link>
         </Nav>
         </Container>
