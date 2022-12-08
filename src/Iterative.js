@@ -62,7 +62,8 @@ export default function Iterative() {
             </div>
             <div className='iterative-stats'>
                 <h5>Tools Used: Figma, Peer Review, User Testing</h5>
-                <h5>Team: Jackson Ho, Isabelle Towle, Jared Cambier, Jesse Gallant</h5>
+                {/* <h5>Team: Jackson Ho, Isabelle Towle, Jared Cambier, Jesse Gallant</h5> */}
+                <h5>Team: Anonymous team of 4</h5>
                 <h5>Completed In: 2 weeks</h5>
             </div>
         </div>

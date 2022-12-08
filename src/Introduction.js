@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { Badge } from 'react-bootstrap';
 import './Introduction.css';
 import starIcon from './images/yellow-star-icon-21.png';
-import photo from './images/me2.jpg';
+import photo from './images/anonpic.jpg';
 import cpu from './images/cpu.png';
 import music from './images/3462291.png';
 import baseball from './images/baseball-16.png';
@@ -18,7 +18,7 @@ export default function Introduction() {
                         <h1 className='about-header'>About Me</h1>
                         <img src={starIcon} className='star-image'></img>
                     </div>
-                    <h4><Badge pill bg="light">1</Badge> My name is Jared, and I'm a junior at Brown University currently taking CSCI1300, a class
+                    <h4><Badge pill bg="light">1</Badge> My name is [student], and I'm a [class year] at Brown University currently taking CSCI1300, a class
                         on user interfaces and user experience. I'm a functional web app designer focused on making fun, useful,
                         and accessible tools.
                     </h4>

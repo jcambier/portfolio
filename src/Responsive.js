@@ -76,7 +76,7 @@ export default function Responsive() {
                         <Figure.Caption className='caption'>One of my original low-fidelity prototypes, made with Balsamiq</Figure.Caption>
                     </Figure>
                     <Card className='code-card'>
-                        <Card.Title>CSS Snippet</Card.Title>
+                        <Card.Title>CSS Snippet (scroll to see more!)</Card.Title>
                         <Card.Text>Describes the strategy behind turning my prototype into a real, responsive website</Card.Text>
                         <code>
                             /* The object that contains the three central columns */<br/>

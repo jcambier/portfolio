@@ -87,10 +87,11 @@
   }
 
   .overwrite-size {
-    font-size: calc(1.3rem);
+    font-size: calc(1.15rem);
     /* font-weight: bold; */
   }
 
   .overwrite-bold {
     font-weight: normal;
+    font-size: calc(1.15rem);
   }
