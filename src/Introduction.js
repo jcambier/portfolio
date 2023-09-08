@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { Badge } from 'react-bootstrap';
 import './Introduction.css';
 import starIcon from './images/yellow-star-icon-21.png';
-import photo from './images/me.jpg';
+import photo from './images/me2.jpg';
 import cpu from './images/cpu.png';
 import music from './images/3462291.png';
 import baseball from './images/baseball-16.png';
