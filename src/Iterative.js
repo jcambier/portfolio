@@ -48,7 +48,7 @@ export default function Iterative() {
                             increased usability.
                         </h4>
                     </div>
-                    <div className='link'>
+                    {/* <div className='link'>
                         <h3 className='underline'>Project Link:</h3>
                         <Nav variant="pills" className='nav-button'>
                             <Nav.Item>
@@ -57,13 +57,13 @@ export default function Iterative() {
                             </Nav.Link>
                             </Nav.Item>
                         </Nav>
-                    </div>
+                    </div> */}
                 </div>
             </div>
             <div className='iterative-stats'>
                 <h5>Tools Used: Figma, Peer Review, User Testing</h5>
-                {/* <h5>Team: Jackson Ho, Isabelle Towle, Jared Cambier, Jesse Gallant</h5> */}
-                <h5>Team: Anonymous team of 4</h5>
+                <h5>Team: Jackson Ho, Isabelle Towle, Jared Cambier, Jesse Gallant</h5>
+                {/* <h5>Team: Anonymous team of 4</h5> */}
                 <h5>Completed In: 2 weeks</h5>
             </div>
         </div>

@@ -12,7 +12,7 @@ export default function Bar() {
     return (
     <Navbar bg="light" expand="lg" fixed="top">
         <Container>
-        <Navbar.Brand>[student]'s CS1300 Portfolio</Navbar.Brand>
+        <Navbar.Brand>Jared Cambier's CS1300 Portfolio</Navbar.Brand>
         <Nav>
             <Nav.Link onClick={() => scrollToProject('about')}>About Me</Nav.Link>
             <Nav.Link onClick={() => scrollToProject('pokemon')}>Pokemon Team Creator</Nav.Link>

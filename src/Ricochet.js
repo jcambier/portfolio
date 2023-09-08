@@ -53,7 +53,7 @@ export default function Ricochet() {
                              before.
                         </h4>
                     </div>
-                    <div className='link'>
+                    {/* <div className='link'>
                         <h3 className='underline'>Project Link:</h3>
                         <Nav variant="pills" className='nav-button'>
                             <Nav.Item>
@@ -62,12 +62,12 @@ export default function Ricochet() {
                             </Nav.Link>
                             </Nav.Item>
                         </Nav>
-                    </div>
+                    </div> */}
                 </div>
                 <div className='right-rico'>
                     <Figure>
                         <Figure.Image src={Board}></Figure.Image>
-                        <Figure.Caption className='caption'>Our game board, designed in Figma by [team member]</Figure.Caption>
+                        <Figure.Caption className='caption'>Our game board, designed in Figma by Eric Tang</Figure.Caption>
                     </Figure>
                         <Figure>
                             <div className='robots-container'>
@@ -82,8 +82,8 @@ export default function Ricochet() {
             </div>
             <div className='rico-stats'>
                 <h5>Tools Used: React, Java, Notion</h5>
-                {/* <h5>Team: Aaron Igra, Eric Tang, Jared Cambier, Justin Zhu, and Spencer Delllenbaugh</h5> */}
-                <h5>Team: Anonymous team of 5</h5>
+                <h5>Team: Aaron Igra, Eric Tang, Jared Cambier, Justin Zhu, and Spencer Delllenbaugh</h5>
+                {/* <h5>Team: Anonymous team of 5</h5> */}
                 <h5>Completed In: 4 weeks</h5>
             </div>
         </div>

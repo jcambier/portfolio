@@ -13,12 +13,12 @@ export default function BottomBar() {
                 <Navbar.Brand>Thank you for reading my portfolio!</Navbar.Brand>
                 <Nav>
                     <Nav.Item>   
-                        <Nav.Link href='https://github.com/' className='nav-item'>
+                        <Nav.Link href='https://github.com/jcambier' className='nav-item'>
                             <img src={Github} className='icon'></img>
                         </Nav.Link>
                     </Nav.Item>   
                     <Nav.Item>
-                        <Nav.Link href='https://www.linkedin.com/' className='nav-item'>
+                        <Nav.Link href='https://www.linkedin.com/in/jared-cambier' className='nav-item'>
                             <img src={LinkedIn} className='icon'></img>
                         </Nav.Link>
                     </Nav.Item>
