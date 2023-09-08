@@ -29,7 +29,7 @@ export default function Introduction() {
                 </div>
                 <div className='right'>
                     <img src={cpu} className='cpu-image'></img>
-                    <h4 className='info'><Badge pill bg="light">2</Badge> For this class, I worked on several projects and have improved my skills with frontend development.
+                    <h4 className='info'><Badge pill bg="light">2</Badge> For this class, I worked on several projects and improved my skills with frontend development.
                         I also got the opportunity to practice certain aspects of the UX design process like prototyping and A/B
                         testing. Feel free to check out what I've done below!
                     </h4>

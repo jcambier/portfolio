@@ -82,7 +82,7 @@ export default function Ricochet() {
             </div>
             <div className='rico-stats'>
                 <h5>Tools Used: React, Java, Notion</h5>
-                <h5>Team: Aaron Igra, Eric Tang, Jared Cambier, Justin Zhu, and Spencer Delllenbaugh</h5>
+                <h5>Team: Aaron Igra, Eric Tang, Jared Cambier, Justin Zhu, Spencer Delllenbaugh</h5>
                 {/* <h5>Team: Anonymous team of 5</h5> */}
                 <h5>Completed In: 4 weeks</h5>
             </div>
